@@ -1,14 +1,37 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "events:" [
+    {
+      "id": 5928101,
+      "category": "animal welfare",
+      "title": "Cat Adoption Day",
+      "description": "foind your new feline firned at this event.",
+      "location": "Meow toen",
+      "date": "January 28, 2022",
+      "time": "12:00",
+      "persAllowed": true,
+      "organizer": "Kat Laydee",
+    },
+    {
+      "id": 4528104,
+      "category": "animal welfare",
+      "title": "Dog Adoption Day",
+      "description": "Dogies are good.",
+      "location": "Meow toen",
+      "date": "february 14, 2022",
+      "time": "1:00",
+      "persAllowed": true,
+      "organizer": "Kat Laydee",
+    },
+    {
+      "id": 3926122,
+      "category": "animal welfare",
+      "title": "Kitten Adoption Day",
+      "description": "Little kittys are better.",
+      "location": "Meow toen",
+      "date": "March 1, 2022",
+      "time": "4:00",
+      "organizer": "Kat Laydee",
+      "persAllowed": true,
+    }
+  ]
 }
