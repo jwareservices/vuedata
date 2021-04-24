@@ -8,7 +8,6 @@
       "location": "Meow toen",
       "date": "January 28, 2022",
       "time": "12:00",
-      "persAllowed": true,
       "organizer": "Kat Laydee",
     },
     {
@@ -19,7 +18,6 @@
       "location": "Meow toen",
       "date": "february 14, 2022",
       "time": "1:00",
-      "persAllowed": true,
       "organizer": "Kat Laydee",
     },
     {
@@ -31,7 +29,6 @@
       "date": "March 1, 2022",
       "time": "4:00",
       "organizer": "Kat Laydee",
-      "persAllowed": true,
     }
   ]
 }
